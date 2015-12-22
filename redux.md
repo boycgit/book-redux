@@ -1,3 +1,5 @@
+{% raw %}
+
 # Redux教程1：环境搭建，初写Redux
 
 如果将React比喻成士兵的话，你的程序还需要一位将军，去管理士兵（的状态），而Redux恰好是一位好将军，简单高效；
@@ -453,3 +455,5 @@ open http://localhost:3000/
  - 测试代码
 
 更多参考：[Redux示例](http://camsong.github.io/redux-in-chinese/docs/introduction/Examples.html)
+
+{% endraw %}

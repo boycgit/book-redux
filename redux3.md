@@ -1,3 +1,5 @@
+{% raw %}
+
 # Redux教程3：添加倒计时
 
 前面的教程里面，我们搭建了一个简单红绿灯示例，通过在console输出当面的倒计时时间；由于界面上不能显示倒计时，用户体验并不良好，本节我们就添加一个简单的倒计时改善一下。
@@ -257,6 +259,9 @@ class App extends Component{
 > 这里需要再强调一下：Redux 和 React 之间没有关系。Redux 支持 React、Angular、Ember、jQuery 甚至纯 JavaScript。
 
 此系列文章仅仅是个开始，后续Redux还有许多高阶内容需要学习，比如异步数据流等处理。少年，加油吧~
+
+{% endraw %}
+
 
 
 
