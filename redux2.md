@@ -1,3 +1,5 @@
+{% raw %}
+
 # Redux教程2：链接React
 
 通过前面的教程，我们有了简单的环境，并且可以运行 `Redux` 的程序，也对 **如何编写Redux示例** 有了初步的印象；
@@ -334,4 +336,7 @@ class App extends Component{
 在后一篇文章，将示例如何处理多个Redux、React的情形；
 
 [1] http://camsong.github.io/redux-in-chinese/docs/react-redux/api.html
+
+{% endraw %}
+
 
